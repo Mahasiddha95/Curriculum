@@ -35,8 +35,8 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 
 ### <a name="skills">Education</a>
 
-#### Makers Academy (October 2022 to ongoing)
-Highly selective 12 week intensive coding bootcamp.
+#### Makers Academy (October 2022 to February 2023)
+Highly selective 16 week intensive coding bootcamp.
 
 - Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
 - Object-oriented programming & software design.
