@@ -25,10 +25,10 @@ As a full-stack junior software developer, I specialize in the front-end develop
 ### <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
-[Today in History][1] | Today in History is an educational website that displays events which took place on any date in past years. | ![github_48][1](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | JS, REACT, Express, Mongodb, Cypress
-[Acebook][2] | A facebook clone created during the Makers academy bootcamp | ![github_48][2](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)| MERN, Cypress, Jest
-[Chitter Challenge][3] | The challenge Write a small Twitter clone that will allow the users to post messages to a public stream.|![github_48][3](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | Ruby, Rails, Rspec, HTML
-[Bank Tech][4] | A bank database that allows the user to manage a bank account with tasks like deposit, withdrawal and print statements.|![github_48][4](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | HTML
+[Today in History][1] | Today in History is an educational website that displays events which took place on any date in past years. | ![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | JS, REACT, Express, Mongodb, Cypress
+[Acebook][2] | A facebook clone created during the Makers academy bootcamp | ![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | MERN, | Cypress, Jest
+[Chitter Challenge][3] | The challenge Write a small Twitter clone that will allow the users to post messages to a public stream.|![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | Ruby, Rails, HTML | RSpec 
+[Bank Tech][4] | A bank database that allows the user to manage a bank account with tasks like deposit, withdrawal and print statements.|![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png) | HTML JS | Jest
 
 *All source code available on Github: [https://github.com/Mahasiddha95][1]
 
