@@ -76,26 +76,28 @@ Rome, ISS Paolo Baffi
 *Full Stack Developer*
 
 **KMC London** (September 2020 to July 2021)    
-*Assistant Manager*  
-- Managed and checked online store operations.
-- Taught and trained people from the start.
-- Updated E-commerce platform regularly.
-- Utilized Adobe clouds to create digital content.
-- Oversaw all employees and management team to ensure policies were met.
+*E-commerce Assistant*  
+- Oversaw the management and monitoring of web operations to ensure smooth and efficient functioning of the platform.
+- Took care of the streaming and post-editing of online classes and workshops.
+- Regularly maintained and updated the Wordpress website to keep it current and functional.
+- Leveraged Adobe Creative Cloud to design and produce digital content for marketing campaigns. 
 
 **Laboratiorio OTTO Roma** (March 2019 to September 2020)   
-*Project Manager Assistant*  
+*Project Assistant*  
 - Provided great service to the community.
 - Supervised the Project manager's activities.
 - Taught in most of Rome's primary schools about environmental issues.
 - Gained great adaptability and resilience.
 
-**Intercontinental Hotel Park Lane LND** (March 2018 to September 2019)   
-*Bar assistant*  
+**Hospitality Roles in Rome & London  - Intercontinental Park Lane, Soho House, Four Seasons.** (March 2017 to September 2020)   
+*Bartender/ Assistant Floor Manager/ Commis de Rang/ Barista*  
 - Engaged in 5stars training.
 - Worked with pressure and high standards.
-- Maintained all company policies correctly.
+- Maintained all company policies with checkpoints.
 - Gained excellent capacity of working in a team.
+- Proved ability to manage projects, motivate teams, and meet objectives through effective communication, team-building, and negotiation skills.
+- Identified and corrected errors, ensured accuracy and precision, and maintained a consistent level of quality in all work performed.
+- Gained exceptional interpersonal skills with the ability to effectively liaise with colleagues and clients.
 ***
 
 ### <a name="interests">Interests</a>
