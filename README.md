@@ -76,7 +76,7 @@ Rome, ISS Paolo Baffi
 *Full Stack Developer*
 
 **KMC London** (September 2020 to July 2021)    
-*E-commerce Assistant*  
+*E-commerce Executive*  
 - Oversaw the management and monitoring of web operations to ensure smooth and efficient functioning of the platform.
 - Took care of the streaming and post-editing of online classes and workshops.
 - Regularly maintained and updated the Wordpress website to keep it current and functional.
